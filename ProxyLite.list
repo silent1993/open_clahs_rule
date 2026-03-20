@@ -10,12 +10,15 @@ DOMAIN-SUFFIX,pasnormalstudios.com
 DOMAIN-SUFFIX,xmrth.com
 DOMAIN-SUFFIX,gying.si
 DOMAIN-SUFFIX,xmrth.one
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ghcr.io
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,xmrth
 DOMAIN-KEYWORD,gying
 DOMAIN-KEYWORD,arcteryx
 DOMAIN-KEYWORD,ollama
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
