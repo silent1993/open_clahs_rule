@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,nekobt.to
+DOMAIN-SUFFIX,to
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
